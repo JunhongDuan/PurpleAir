@@ -1,8 +1,9 @@
-The code should be run by the order.
+The code should be run in sequence.
 Study time period: 2020-12-01 - 2022-12-01 (2 years)
-file 1: how to download PurpleAir data
-file 2: [private] preview CHLA diagnosis data
-file 3: wild fire data
-file 4: EPA data + calibration
-file 4.5: validate calibrated PurpleAir sensor data
-file 5: download census data to see who own sensors
+file 0: [private] preview CHLA diagnosis data
+file 1: How to download PurpleAir data
+file 2: EPA data extraction
+file 3: wildfire data
+file 4: pairing EPA and purpleAir sensor data + calibration
+file 4.5: Validate calibrated PurpleAir sensor data
+file 5: download census data to see who owns sensors
