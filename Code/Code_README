@@ -7,3 +7,5 @@ file 3: wildfire data
 file 4: pairing EPA and purpleAir sensor data + calibration
 file 4.5: Validate calibrated PurpleAir sensor data
 file 5: download census data to see who owns sensors
+file 6: Landuse data extraction from OSM
+file 6.5: landuse Reg data preparation
